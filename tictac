@@ -1,0 +1,35 @@
+2 PLAYERS
+PLAYER 1 = X | x 
+PLAYER 2 = O | o
+
+
+the table is a list GAME BOARD
+_|_|_
+_|_|_
+ | |
+ 
+ for every empty spot, press an input  PLAY
+ when no empty spot, END GAME = DRAW
+ 
+ WIN if 
+ 	3 ROW
+ 	3 COLOMN
+ 	3 DIAGONAL
+ 	
+ else DRAW
+ 
+ BOARD = "0"|"1"|"2"
+ 	 --- --- ---
+ 	 "3"|"4"|"5"
+ 	 --- --- ---
+ 	 "6"|"7"|"8"
+ 	 
+ 	 
+Display board
+player input
+random input
+check if spot is taken
+keep changing
+display winner 
+
+GAME ON or GAME OVER
