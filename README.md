@@ -17,4 +17,4 @@ A high-stakes command-line Tic-Tac-Toe game where your gaming skills determine t
 3. Open your terminal or command prompt.
 4. Run the game:
    ```bash
-   python tictactoe.py
+   python tictac.py
